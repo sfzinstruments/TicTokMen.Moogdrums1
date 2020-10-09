@@ -1,0 +1,91 @@
+// Moogdrum Sample Set 1
+// by Seven Graylands of The Tic Tok Men (www.tictokmen.com)
+//
+// Samples cleaned and converted from the original GigaSampler version by S. Christian Collins
+// www.schristiancollins.com
+
+<control>
+default_path=samples/
+
+<master> loop_mode=one_shot
+
+<region> sample=moog-kick1.wav        key=24
+<region> sample=moog-hat-c-1.wav      key=25
+<region> sample=moog-snare1.wav       key=26
+<region> sample=moog-hat-o-1.wav      key=27
+<region> sample=moog-click1.wav       key=28
+<region> sample=moog-tom_low1.wav     key=29
+<region> sample=moog-crash1.wav       key=30
+<region> sample=moog-tom_high1.wav    key=31
+<region> sample=moog-clave1.wav       key=32
+<region> sample=moog-fx7.wav          key=33  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-fx1.wav          key=34
+<region> sample=moog-sub_kick1.wav    key=35  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-kick2.wav        key=36
+<region> sample=moog-hat-c-2.wav      key=37
+<region> sample=moog-snare2.wav       key=38
+<region> sample=moog-hat-o-2.wav      key=39  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-click2.wav       key=40
+<region> sample=moog-tom_low2.wav     key=41
+<region> sample=moog-crash2.wav       key=42  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-tom_mid2.wav     key=43
+<region> sample=moog-clave2.wav       key=44
+<region> sample=moog-tom_high2.wav    key=45  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-fx2.wav          key=46  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-sub_kick2.wav    key=47  loop_mode=no_loop  ampeg_release=2
+<region> sample=moog-kick3.wav        key=48
+<region> sample=moog-hat-c-3.wav      key=49
+<region> sample=moog-snare3.wav       key=50
+<region> sample=moog-hat-o-3.wav      key=51
+<region> sample=moog-click3.wav       key=52
+<region> sample=moog-tom_low3.wav     key=53
+<region> sample=moog-crash3.wav       key=54
+<region> sample=moog-tom_mid3.wav     key=55
+<region> sample=moog-clave3.wav       key=56
+<region> sample=moog-tom_high3.wav    key=57
+<region> sample=moog-fx3.wav          key=58  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-sub_kick3.wav    key=59  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-kick4.wav        key=60
+<region> sample=moog-hat-c-4.wav      key=61
+<region> sample=moog-snare4.wav       key=62
+<region> sample=moog-hat-o-4.wav      key=63  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-click4.wav       key=64
+<region> sample=moog-tom_low4.wav     key=65  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-crash4.wav       key=66  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-tom_mid4.wav     key=67  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-woodblock1.wav   key=68
+<region> sample=moog-tom_high4.wav    key=69  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-fx4.wav          key=70  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-sub_kick4.wav    key=71  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-kick5.wav        key=72
+<region> sample=moog-hat-c-5.wav      key=73
+<region> sample=moog-snare5.wav       key=74
+<region> sample=moog-hat-o-5.wav      key=75
+<region> sample=moog-click5.wav       key=76
+<region> sample=moog-tom_low5.wav     key=77  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-crash5.wav       key=78  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-tom_mid5.wav     key=79  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-woodblock2.wav   key=80
+<region> sample=moog-tom_high5.wav    key=81  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-fx5.wav          key=82
+<region> sample=moog-rim11.wav        key=83
+<region> sample=moog-kick6.wav        key=84
+<region> sample=moog-closed-hat1.wav  key=85
+<region> sample=moog-snare6.wav       key=86
+<region> sample=moog-closed-hat2.wav  key=87
+<region> sample=moog-click6.wav       key=88
+<region> sample=moog-conga_lo1.wav    key=89
+<region> sample=moog-rim12.wav        key=90
+<region> sample=moog-conga_hi1.wav    key=91
+<region> sample=moog-woodblock3.wav   key=92
+<region> sample=moog-conga_lo2.wav    key=93
+<region> sample=moog-fx6.wav          key=94  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-conga_hi2.wav    key=95
+<region> sample=moog-kick7.wav        key=96
+<region> sample=moog-closed-hat3.wav  key=97
+<region> sample=moog-snare7.wav       key=98
+<region> sample=moog-closed-hat4.wav  key=99
+<region> sample=moog-fxperc1.wav      key=100  loop_mode=no_loop  ampeg_release=1
+<region> sample=moog-fxperc2.wav      key=101
+<region> sample=moog-fxperc3.wav      key=102
+
