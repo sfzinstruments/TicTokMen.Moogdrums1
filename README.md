@@ -5,7 +5,7 @@ www.schristiancollins.com
 
 ## Details
 
-I created these sounds using the Moog Rouge synthesizer. 
+I created these sounds using the Moog Rogue synthesizer. 
 The 79 samples are roughly broken down into the following sound groups.
 
 3 - Clave
